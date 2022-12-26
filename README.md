@@ -12,7 +12,7 @@
 Luís Heleno.
 
 ## Descrição e objetivo do projeto
-O objetivo do projeto foi desenvolver uma landing page com dropdown-menu e direcionamento para uma página de cadastro que faça validação de usando a api do viacep.
+O objetivo do projeto foi desenvolver uma landing page com dropdown-menu e direcionamento para uma página de cadastro que faça validação de CEP usando a api do viacep.
 ###
 
 
